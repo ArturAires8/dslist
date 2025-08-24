@@ -2,7 +2,7 @@ DSList - Gerenciador de Coleções Backend
 
 Este projeto é um sistema backend desenvolvido em Java utilizando Spring Boot, com persistência de dados no PostgreSQL. O projeto foi desenvolvido no curso intensão java ministrado pelo @acenelio com base no projeto: https://github.com/devsuperior/dslist-backend. O desenvolvimento teve como objetivo relembrar conceitos de java e me manter atualizado nessa linguagem de programação.
 
-Estrutura do projeto
+Estrutura do projeto:
 
 <img width="272" height="317" alt="image" src="https://github.com/user-attachments/assets/d2e41979-8e33-47c2-baf2-3a5cab85b06e" />
 
@@ -24,7 +24,7 @@ Padrão DTO
 
 <img width="760" height="484" alt="image" src="https://github.com/user-attachments/assets/80bc8811-6851-4400-8059-08234480f1c3" />
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 Java 17
 Spring Boot
 Maven
@@ -42,7 +42,7 @@ Configuração de CORS para acesso seguro na web.
 
 Como Executar o Projeto
 
-Pré-requisitos
+Pré-requisitos:
 
 Java 17
 Banco de dados PostgreSQL
