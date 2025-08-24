@@ -31,7 +31,7 @@ Spring Boot
 Maven
 PostgreSQL
 Docker Compose (para configuração local)
-Ferramentas de CI/CD para deploy automatizado
+Ferramentas de CI/CD para deploy automatizado.
 
 Funcionalidades
 
@@ -54,7 +54,9 @@ API Desenvolvida conta com 5 rotas funcionais (Com coleção para Games):
 
 <img width="1200" height="680" alt="image" src="https://github.com/user-attachments/assets/a1925eb2-c560-4220-b8e4-aef8f9aa4bd3" />
 
+
 <img width="1153" height="711" alt="image" src="https://github.com/user-attachments/assets/564f94d7-30fc-47fd-a003-67bf011671ea" />
+
 
 <img width="1149" height="694" alt="image" src="https://github.com/user-attachments/assets/ad04b440-22c2-4651-9739-a10b51e454ee" />
 
